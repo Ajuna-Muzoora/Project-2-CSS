@@ -1,0 +1,91 @@
+.head{
+    text-align:center;
+    font-size:x-large
+}  body   {
+    background-image:url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/7-gradient-background-animation-CSS.jpg");
+}
+.place{
+    font-size:40px;
+    float: left;
+    
+}
+.movie{
+    font-size:40px;
+    float: right;
+    
+}
+.hobby{
+    
+    font-size:40px;
+    width:200px;
+            height:100px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            margin-top: 100px;
+            margin-left: -70px;
+            margin-bottom: 100px;
+            overflow: bottom;
+}
+.navigate{
+    height:250px;
+    width:450px;
+    margin-top: -95px;
+    margin-left: 510px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+img{
+    height:300px;
+    width:300px;
+}
+a{
+    text-align: center;
+    font-size: xx-large;
+}
+.xc{
+    float:right;
+    margin-right: 300px;
+    height:400px;
+    width:500px;
+    border:goldenrod, dashed, 5px;
+}
+.flick{
+    float: right;
+    margin-right: 500px;
+}
+.fact{
+    float:right;
+    font-size: x-large;
+    margin-right: 200px;
+    width:500px;
+    
+
+}
+#factual{
+    float:left;
+}
+.em{
+    font-size: 20px;
+}
+.song{
+    float:right;
+    font-size:xx-large;
+    margin-right: 50px;
+    margin-bottom: 200px;
+}
+#visual:active{
+    width:600px;
+    height:300px;
+    filter: hue-rotate(90deg);
+}
+.buds:active{
+width:500px;
+filter:invert(20%);
+}
+img{
+        transition: width 2s, filter 1s;
+}
+.canyon{
+    background-image:url("/Users/muzaju86/Library/Photos/Libraries/Syndication.photoslibrary/scopes/syndication/resources/derivatives/B/B89F6197-C9A7-4D5F-936A-6E73932676B2_1_102_o.jpeg");
+}
